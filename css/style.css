@@ -76,3 +76,18 @@ div {
     min-height: 300px;
     background-color: #d3d3d3;
 }
+
+aside {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d3d3d3;
+    width: 100%;
+    min-height: 300px;
+}
+
+.aside-content {
+    background-color: #228b22;
+    min-width: 700px;
+    min-height: 500px;
+}
